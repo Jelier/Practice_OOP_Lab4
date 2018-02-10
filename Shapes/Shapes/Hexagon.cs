@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
+    //Signed by Jelier
     class Hexagon : Shape
     {
         public Hexagon() { }

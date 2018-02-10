@@ -17,6 +17,7 @@ namespace Shapes
                 s.Draw();
             }
             Console.ReadLine();
+            //Signed by Jelier
         }
     }
 }
